@@ -1,0 +1,30 @@
+#include <errno.h>  
+#include <unistd.h>  
+#include <fcntl.h>  
+#include <mqueue.h>  
+#include <stdio.h>
+#include <string.h>
+ 
+int main()  
+{  
+    mqd_t mqID;  
+    mqID = mq_open("/anonymQueue", O_RDWR | O_CREAT, 0666, NULL);  
+ 
+    if (mqID < 0)  
+    {  
+		printf("open message queue error..., %s\n", strerror(errno));
+        return -1;  
+    }  
+				  
+    struct mq_attr mqAttr;  
+    if (mq_getattr(mqID, &mqAttr) < 0)  
+    {  
+		printf("get the message queue attribute error\n");
+        return -1;  
+    }  
+						  
+	printf("mq_flags: %ld\n", mqAttr.mq_flags);
+	printf("mq_maxmsg: %ld\n", mqAttr.mq_maxmsg);
+	printf("mq_msgsize: %ld\n", mqAttr.mq_msgsize);
+	printf("mq_curmsgs: %ld\n", mqAttr.mq_curmsgs);
+} 

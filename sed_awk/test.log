@@ -1,0 +1,772 @@
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.181233!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 0, timeStamp = 60760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.181233!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1, timeStamp = 60760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 143013 bytes.	Presentation time: 1525452166.181233!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 101, timeStamp = 60760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5810 bytes.	Presentation time: 1525452166.181677!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 106, timeStamp = 60800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 11860 bytes.	Presentation time: 1525452166.182121!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 115, timeStamp = 60840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 11355 bytes.	Presentation time: 1525452166.182565!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 123, timeStamp = 60880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 2770 bytes.	Presentation time: 1525452166.183009!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 125, timeStamp = 60920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7335 bytes.	Presentation time: 1525452166.183453!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 131, timeStamp = 60960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4959 bytes.	Presentation time: 1525452166.183897!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 135, timeStamp = 61000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 12827 bytes.	Presentation time: 1525452166.184341!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 144, timeStamp = 61040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6878 bytes.	Presentation time: 1525452166.184785!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 149, timeStamp = 61080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4307 bytes.	Presentation time: 1525452166.185229!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 152, timeStamp = 61120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8215 bytes.	Presentation time: 1525452166.185673!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 158, timeStamp = 61160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5750 bytes.	Presentation time: 1525452166.186117!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 162, timeStamp = 61200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6237 bytes.	Presentation time: 1525452166.186561!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 167, timeStamp = 61240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6048 bytes.	Presentation time: 1525452166.187005!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 172, timeStamp = 61280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4758 bytes.	Presentation time: 1525452166.187449!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 176, timeStamp = 61320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9481 bytes.	Presentation time: 1525452166.187893!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 183, timeStamp = 61360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6118 bytes.	Presentation time: 1525452166.188337!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 188, timeStamp = 61400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7716 bytes.	Presentation time: 1525452166.188781!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 194, timeStamp = 61440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7285 bytes.	Presentation time: 1525452166.189225!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 200, timeStamp = 61480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8867 bytes.	Presentation time: 1525452166.189669!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 207, timeStamp = 61520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.203446!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 208, timeStamp = 62760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.203446!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 209, timeStamp = 62760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 137779 bytes.	Presentation time: 1525452166.203446!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 305, timeStamp = 62760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5857 bytes.	Presentation time: 1525452166.203890!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 310, timeStamp = 62800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 14688 bytes.	Presentation time: 1525452166.204334!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 321, timeStamp = 62840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7018 bytes.	Presentation time: 1525452166.204778!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 326, timeStamp = 62880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7279 bytes.	Presentation time: 1525452166.205222!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 332, timeStamp = 62920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7265 bytes.	Presentation time: 1525452166.205666!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 338, timeStamp = 62960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5257 bytes.	Presentation time: 1525452166.206110!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 342, timeStamp = 63000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4752 bytes.	Presentation time: 1525452166.206554!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 346, timeStamp = 63040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8696 bytes.	Presentation time: 1525452166.206998!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 353, timeStamp = 63080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5331 bytes.	Presentation time: 1525452166.207442!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 357, timeStamp = 63120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8654 bytes.	Presentation time: 1525452166.207886!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 364, timeStamp = 63160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 3898 bytes.	Presentation time: 1525452166.208330!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 367, timeStamp = 63200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10309 bytes.	Presentation time: 1525452166.208774!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 375, timeStamp = 63240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 2119 bytes.	Presentation time: 1525452166.209218!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 377, timeStamp = 63280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 18554 bytes.	Presentation time: 1525452166.209662!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 390, timeStamp = 63320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 1825 bytes.	Presentation time: 1525452166.210106!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 392, timeStamp = 63360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 19369 bytes.	Presentation time: 1525452166.210550!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 406, timeStamp = 63400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7227 bytes.	Presentation time: 1525452166.210994!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 412, timeStamp = 63440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 11038 bytes.	Presentation time: 1525452166.211438!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 420, timeStamp = 63480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7265 bytes.	Presentation time: 1525452166.211882!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 426, timeStamp = 63520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.225659!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 427, timeStamp = 64760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.225659!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 428, timeStamp = 64760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 137636 bytes.	Presentation time: 1525452166.225659!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 524, timeStamp = 64760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 22627 bytes.	Presentation time: 1525452166.226103!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 540, timeStamp = 64800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 13797 bytes.	Presentation time: 1525452166.226547!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 550, timeStamp = 64840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 2985 bytes.	Presentation time: 1525452166.226991!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 553, timeStamp = 64880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8385 bytes.	Presentation time: 1525452166.227435!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 559, timeStamp = 64920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6372 bytes.	Presentation time: 1525452166.227879!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 564, timeStamp = 64960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4863 bytes.	Presentation time: 1525452166.228323!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 568, timeStamp = 65000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9658 bytes.	Presentation time: 1525452166.228767!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 575, timeStamp = 65040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 1606 bytes.	Presentation time: 1525452166.229211!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 577, timeStamp = 65080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 16157 bytes.	Presentation time: 1525452166.229655!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 589, timeStamp = 65120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 16597 bytes.	Presentation time: 1525452166.230099!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 601, timeStamp = 65160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 2346 bytes.	Presentation time: 1525452166.230543!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 603, timeStamp = 65200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6286 bytes.	Presentation time: 1525452166.230987!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 608, timeStamp = 65240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 3512 bytes.	Presentation time: 1525452166.231431!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 611, timeStamp = 65280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5797 bytes.	Presentation time: 1525452166.231875!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 616, timeStamp = 65320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7284 bytes.	Presentation time: 1525452166.232319!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 622, timeStamp = 65360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4048 bytes.	Presentation time: 1525452166.232763!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 625, timeStamp = 65400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 28328 bytes.	Presentation time: 1525452166.233207!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 645, timeStamp = 65440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4163 bytes.	Presentation time: 1525452166.233651!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 648, timeStamp = 65480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 12398 bytes.	Presentation time: 1525452166.234095!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 657, timeStamp = 65520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4880 bytes.	Presentation time: 1525452166.234539!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 661, timeStamp = 65560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.247872!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 662, timeStamp = 66760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.247872!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 663, timeStamp = 66760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 140060 bytes.	Presentation time: 1525452166.247872!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 761, timeStamp = 66760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 2386 bytes.	Presentation time: 1525452166.248316!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 763, timeStamp = 66800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10608 bytes.	Presentation time: 1525452166.248760!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 771, timeStamp = 66840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 3181 bytes.	Presentation time: 1525452166.249204!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 774, timeStamp = 66880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 11025 bytes.	Presentation time: 1525452166.249648!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 782, timeStamp = 66920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 2949 bytes.	Presentation time: 1525452166.250092!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 785, timeStamp = 66960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10476 bytes.	Presentation time: 1525452166.250536!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 793, timeStamp = 67000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 3635 bytes.	Presentation time: 1525452166.250980!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 796, timeStamp = 67040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 14011 bytes.	Presentation time: 1525452166.251424!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 806, timeStamp = 67080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 11269 bytes.	Presentation time: 1525452166.251868!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 814, timeStamp = 67120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 13420 bytes.	Presentation time: 1525452166.252312!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 824, timeStamp = 67160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7007 bytes.	Presentation time: 1525452166.252756!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 829, timeStamp = 67200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5978 bytes.	Presentation time: 1525452166.253200!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 834, timeStamp = 67240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6503 bytes.	Presentation time: 1525452166.253644!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 839, timeStamp = 67280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7161 bytes.	Presentation time: 1525452166.254088!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 844, timeStamp = 67320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6626 bytes.	Presentation time: 1525452166.254532!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 849, timeStamp = 67360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6164 bytes.	Presentation time: 1525452166.254976!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 854, timeStamp = 67400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5064 bytes.	Presentation time: 1525452166.255420!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 858, timeStamp = 67440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5802 bytes.	Presentation time: 1525452166.255864!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 863, timeStamp = 67480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5254 bytes.	Presentation time: 1525452166.256308!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 867, timeStamp = 67520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.270085!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 868, timeStamp = 68760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.270085!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 869, timeStamp = 68760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 130227 bytes.	Presentation time: 1525452166.270085!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 960, timeStamp = 68760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8626 bytes.	Presentation time: 1525452166.270529!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 966, timeStamp = 68800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 13343 bytes.	Presentation time: 1525452166.270973!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 976, timeStamp = 68840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4302 bytes.	Presentation time: 1525452166.271417!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 979, timeStamp = 68880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6286 bytes.	Presentation time: 1525452166.271861!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 984, timeStamp = 68920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8547 bytes.	Presentation time: 1525452166.272305!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 990, timeStamp = 68960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7960 bytes.	Presentation time: 1525452166.272749!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 996, timeStamp = 69000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8139 bytes.	Presentation time: 1525452166.273193!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1002, timeStamp = 69040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7673 bytes.	Presentation time: 1525452166.273637!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1008, timeStamp = 69080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7168 bytes.	Presentation time: 1525452166.274081!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1013, timeStamp = 69120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8240 bytes.	Presentation time: 1525452166.274525!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1019, timeStamp = 69160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8135 bytes.	Presentation time: 1525452166.274969!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1025, timeStamp = 69200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8918 bytes.	Presentation time: 1525452166.275413!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1032, timeStamp = 69240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6694 bytes.	Presentation time: 1525452166.275857!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1037, timeStamp = 69280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9272 bytes.	Presentation time: 1525452166.276301!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1044, timeStamp = 69320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6973 bytes.	Presentation time: 1525452166.276745!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1049, timeStamp = 69360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10851 bytes.	Presentation time: 1525452166.277189!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1057, timeStamp = 69400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7153 bytes.	Presentation time: 1525452166.277633!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1062, timeStamp = 69440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7096 bytes.	Presentation time: 1525452166.278077!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1067, timeStamp = 69480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6934 bytes.	Presentation time: 1525452166.278521!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1072, timeStamp = 69520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5607 bytes.	Presentation time: 1525452166.278965!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1076, timeStamp = 69560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6634 bytes.	Presentation time: 1525452166.279409!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1081, timeStamp = 69600
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9222 bytes.	Presentation time: 1525452166.279853!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1088, timeStamp = 69640
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.292297!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1089, timeStamp = 70760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.292297!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1090, timeStamp = 70760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 131389 bytes.	Presentation time: 1525452166.292297!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1182, timeStamp = 70760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7408 bytes.	Presentation time: 1525452166.292741!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1188, timeStamp = 70800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8982 bytes.	Presentation time: 1525452166.293185!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1195, timeStamp = 70840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7448 bytes.	Presentation time: 1525452166.293629!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1201, timeStamp = 70880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7607 bytes.	Presentation time: 1525452166.294073!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1207, timeStamp = 70920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7219 bytes.	Presentation time: 1525452166.294517!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1213, timeStamp = 70960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6377 bytes.	Presentation time: 1525452166.294961!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1218, timeStamp = 71000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7842 bytes.	Presentation time: 1525452166.295405!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1224, timeStamp = 71040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5418 bytes.	Presentation time: 1525452166.295849!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1228, timeStamp = 71080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 12765 bytes.	Presentation time: 1525452166.296293!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1237, timeStamp = 71120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9603 bytes.	Presentation time: 1525452166.296737!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1244, timeStamp = 71160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7418 bytes.	Presentation time: 1525452166.297181!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1250, timeStamp = 71200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7650 bytes.	Presentation time: 1525452166.297625!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1256, timeStamp = 71240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8236 bytes.	Presentation time: 1525452166.298069!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1262, timeStamp = 71280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6232 bytes.	Presentation time: 1525452166.298513!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1267, timeStamp = 71320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7945 bytes.	Presentation time: 1525452166.298957!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1273, timeStamp = 71360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7218 bytes.	Presentation time: 1525452166.299401!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1279, timeStamp = 71400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7440 bytes.	Presentation time: 1525452166.299845!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1285, timeStamp = 71440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6262 bytes.	Presentation time: 1525452166.300289!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1290, timeStamp = 71480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7856 bytes.	Presentation time: 1525452166.300733!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1296, timeStamp = 71520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7179 bytes.	Presentation time: 1525452166.301177!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1301, timeStamp = 71560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.314510!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1302, timeStamp = 72760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.314510!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1303, timeStamp = 72760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 129181 bytes.	Presentation time: 1525452166.314510!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1393, timeStamp = 72760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 11264 bytes.	Presentation time: 1525452166.314954!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1401, timeStamp = 72800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5367 bytes.	Presentation time: 1525452166.315398!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1405, timeStamp = 72840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6057 bytes.	Presentation time: 1525452166.315842!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1410, timeStamp = 72880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9024 bytes.	Presentation time: 1525452166.316286!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1417, timeStamp = 72920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5443 bytes.	Presentation time: 1525452166.316730!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1421, timeStamp = 72960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4375 bytes.	Presentation time: 1525452166.317174!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1425, timeStamp = 73000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4812 bytes.	Presentation time: 1525452166.317618!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1429, timeStamp = 73040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 17231 bytes.	Presentation time: 1525452166.318062!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1441, timeStamp = 73080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10083 bytes.	Presentation time: 1525452166.318506!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1449, timeStamp = 73120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8031 bytes.	Presentation time: 1525452166.318950!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1455, timeStamp = 73160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8272 bytes.	Presentation time: 1525452166.319394!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1461, timeStamp = 73200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6741 bytes.	Presentation time: 1525452166.319838!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1466, timeStamp = 73240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8877 bytes.	Presentation time: 1525452166.320282!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1473, timeStamp = 73280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6822 bytes.	Presentation time: 1525452166.320726!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1478, timeStamp = 73320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6042 bytes.	Presentation time: 1525452166.321170!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1483, timeStamp = 73360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8472 bytes.	Presentation time: 1525452166.321614!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1489, timeStamp = 73400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5822 bytes.	Presentation time: 1525452166.322058!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1494, timeStamp = 73440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7462 bytes.	Presentation time: 1525452166.322502!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1500, timeStamp = 73480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6617 bytes.	Presentation time: 1525452166.322946!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1505, timeStamp = 73520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7100 bytes.	Presentation time: 1525452166.323390!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1510, timeStamp = 73560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7088 bytes.	Presentation time: 1525452166.323834!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1515, timeStamp = 73600
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.336722!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1516, timeStamp = 74760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.336722!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1517, timeStamp = 74760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 132837 bytes.	Presentation time: 1525452166.336722!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1610, timeStamp = 74760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6470 bytes.	Presentation time: 1525452166.337166!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1615, timeStamp = 74800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 12398 bytes.	Presentation time: 1525452166.337610!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1624, timeStamp = 74840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5867 bytes.	Presentation time: 1525452166.338054!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1629, timeStamp = 74880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5856 bytes.	Presentation time: 1525452166.338498!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1634, timeStamp = 74920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4328 bytes.	Presentation time: 1525452166.338942!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1638, timeStamp = 74960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6161 bytes.	Presentation time: 1525452166.339386!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1643, timeStamp = 75000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8706 bytes.	Presentation time: 1525452166.339830!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1650, timeStamp = 75040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5945 bytes.	Presentation time: 1525452166.340274!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1655, timeStamp = 75080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9451 bytes.	Presentation time: 1525452166.340718!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1662, timeStamp = 75120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7482 bytes.	Presentation time: 1525452166.341162!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1668, timeStamp = 75160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8714 bytes.	Presentation time: 1525452166.341606!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1675, timeStamp = 75200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7238 bytes.	Presentation time: 1525452166.342050!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1681, timeStamp = 75240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6997 bytes.	Presentation time: 1525452166.342494!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1686, timeStamp = 75280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6673 bytes.	Presentation time: 1525452166.342938!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1691, timeStamp = 75320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8544 bytes.	Presentation time: 1525452166.343382!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1697, timeStamp = 75360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5189 bytes.	Presentation time: 1525452166.343826!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1701, timeStamp = 75400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7204 bytes.	Presentation time: 1525452166.344270!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1707, timeStamp = 75440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4912 bytes.	Presentation time: 1525452166.344714!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1711, timeStamp = 75480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8224 bytes.	Presentation time: 1525452166.345158!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1717, timeStamp = 75520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7000 bytes.	Presentation time: 1525452166.345602!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1722, timeStamp = 75560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7924 bytes.	Presentation time: 1525452166.346046!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1728, timeStamp = 75600
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.358934!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1729, timeStamp = 76760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.358934!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1730, timeStamp = 76760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 133971 bytes.	Presentation time: 1525452166.358934!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1824, timeStamp = 76760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7083 bytes.	Presentation time: 1525452166.359378!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1829, timeStamp = 76800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9471 bytes.	Presentation time: 1525452166.359822!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1836, timeStamp = 76840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5978 bytes.	Presentation time: 1525452166.360266!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1841, timeStamp = 76880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4637 bytes.	Presentation time: 1525452166.360710!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1845, timeStamp = 76920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4731 bytes.	Presentation time: 1525452166.361154!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1849, timeStamp = 76960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 22482 bytes.	Presentation time: 1525452166.361598!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1865, timeStamp = 77000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7233 bytes.	Presentation time: 1525452166.362042!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1871, timeStamp = 77040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9697 bytes.	Presentation time: 1525452166.362486!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1878, timeStamp = 77080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7425 bytes.	Presentation time: 1525452166.362930!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1884, timeStamp = 77120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9716 bytes.	Presentation time: 1525452166.363374!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1891, timeStamp = 77160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7454 bytes.	Presentation time: 1525452166.363818!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1897, timeStamp = 77200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6758 bytes.	Presentation time: 1525452166.364262!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1902, timeStamp = 77240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6801 bytes.	Presentation time: 1525452166.364706!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1907, timeStamp = 77280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6068 bytes.	Presentation time: 1525452166.365150!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1912, timeStamp = 77320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8219 bytes.	Presentation time: 1525452166.365594!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1918, timeStamp = 77360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6206 bytes.	Presentation time: 1525452166.366038!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1923, timeStamp = 77400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5335 bytes.	Presentation time: 1525452166.366482!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1927, timeStamp = 77440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6883 bytes.	Presentation time: 1525452166.366926!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1932, timeStamp = 77480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6995 bytes.	Presentation time: 1525452166.367370!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1937, timeStamp = 77520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6612 bytes.	Presentation time: 1525452166.367814!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1942, timeStamp = 77560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7560 bytes.	Presentation time: 1525452166.368258!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1948, timeStamp = 77600
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7100 bytes.	Presentation time: 1525452166.368702!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1953, timeStamp = 77640
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.381146!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1954, timeStamp = 78760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.381146!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 1955, timeStamp = 78760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 132485 bytes.	Presentation time: 1525452166.381146!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2048, timeStamp = 78760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4773 bytes.	Presentation time: 1525452166.381590!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2052, timeStamp = 78800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9766 bytes.	Presentation time: 1525452166.382034!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2059, timeStamp = 78840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7642 bytes.	Presentation time: 1525452166.382478!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2065, timeStamp = 78880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8184 bytes.	Presentation time: 1525452166.382922!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2071, timeStamp = 78920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6388 bytes.	Presentation time: 1525452166.383366!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2076, timeStamp = 78960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7538 bytes.	Presentation time: 1525452166.383810!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2082, timeStamp = 79000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6707 bytes.	Presentation time: 1525452166.384254!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2087, timeStamp = 79040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7485 bytes.	Presentation time: 1525452166.384698!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2093, timeStamp = 79080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7779 bytes.	Presentation time: 1525452166.385142!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2099, timeStamp = 79120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7135 bytes.	Presentation time: 1525452166.385586!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2104, timeStamp = 79160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5762 bytes.	Presentation time: 1525452166.386030!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2109, timeStamp = 79200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9070 bytes.	Presentation time: 1525452166.386474!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2116, timeStamp = 79240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7004 bytes.	Presentation time: 1525452166.386918!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2121, timeStamp = 79280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7635 bytes.	Presentation time: 1525452166.387362!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2127, timeStamp = 79320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6600 bytes.	Presentation time: 1525452166.387806!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2132, timeStamp = 79360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7603 bytes.	Presentation time: 1525452166.388250!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2138, timeStamp = 79400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5077 bytes.	Presentation time: 1525452166.388694!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2142, timeStamp = 79440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6948 bytes.	Presentation time: 1525452166.389138!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2147, timeStamp = 79480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6691 bytes.	Presentation time: 1525452166.389582!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2152, timeStamp = 79520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5412 bytes.	Presentation time: 1525452166.390026!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2156, timeStamp = 79560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5939 bytes.	Presentation time: 1525452166.390470!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2161, timeStamp = 79600
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9949 bytes.	Presentation time: 1525452166.390914!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2168, timeStamp = 79640
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6722 bytes.	Presentation time: 1525452166.391358!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2173, timeStamp = 79680
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6860 bytes.	Presentation time: 1525452166.391802!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2178, timeStamp = 79720
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7716 bytes.	Presentation time: 1525452166.392246!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2184, timeStamp = 79760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.403357!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2185, timeStamp = 80760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.403357!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2186, timeStamp = 80760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 141104 bytes.	Presentation time: 1525452166.403357!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2284, timeStamp = 80760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6231 bytes.	Presentation time: 1525452166.403801!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2289, timeStamp = 80800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10080 bytes.	Presentation time: 1525452166.404245!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2296, timeStamp = 80840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7101 bytes.	Presentation time: 1525452166.404689!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2301, timeStamp = 80880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6345 bytes.	Presentation time: 1525452166.405133!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2306, timeStamp = 80920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7229 bytes.	Presentation time: 1525452166.405577!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2312, timeStamp = 80960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8050 bytes.	Presentation time: 1525452166.406021!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2318, timeStamp = 81000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7270 bytes.	Presentation time: 1525452166.406465!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2324, timeStamp = 81040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8273 bytes.	Presentation time: 1525452166.406909!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2330, timeStamp = 81080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9626 bytes.	Presentation time: 1525452166.407353!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2337, timeStamp = 81120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5838 bytes.	Presentation time: 1525452166.407797!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2342, timeStamp = 81160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8117 bytes.	Presentation time: 1525452166.408241!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2348, timeStamp = 81200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8171 bytes.	Presentation time: 1525452166.408685!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2354, timeStamp = 81240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7845 bytes.	Presentation time: 1525452166.409129!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2360, timeStamp = 81280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8738 bytes.	Presentation time: 1525452166.409573!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2367, timeStamp = 81320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5478 bytes.	Presentation time: 1525452166.410017!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2371, timeStamp = 81360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7574 bytes.	Presentation time: 1525452166.410461!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2377, timeStamp = 81400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6683 bytes.	Presentation time: 1525452166.410905!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2382, timeStamp = 81440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6007 bytes.	Presentation time: 1525452166.411349!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2387, timeStamp = 81480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7233 bytes.	Presentation time: 1525452166.411793!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2393, timeStamp = 81520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.425570!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2394, timeStamp = 82760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.425570!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2395, timeStamp = 82760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 129593 bytes.	Presentation time: 1525452166.425570!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2485, timeStamp = 82760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9008 bytes.	Presentation time: 1525452166.426014!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2492, timeStamp = 82800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7907 bytes.	Presentation time: 1525452166.426458!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2498, timeStamp = 82840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8259 bytes.	Presentation time: 1525452166.426902!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2504, timeStamp = 82880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7241 bytes.	Presentation time: 1525452166.427346!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2510, timeStamp = 82920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9213 bytes.	Presentation time: 1525452166.427790!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2517, timeStamp = 82960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4729 bytes.	Presentation time: 1525452166.428234!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2521, timeStamp = 83000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 3847 bytes.	Presentation time: 1525452166.428678!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2524, timeStamp = 83040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5793 bytes.	Presentation time: 1525452166.429122!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2529, timeStamp = 83080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6539 bytes.	Presentation time: 1525452166.429566!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2534, timeStamp = 83120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7359 bytes.	Presentation time: 1525452166.430010!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2540, timeStamp = 83160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8002 bytes.	Presentation time: 1525452166.430454!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2546, timeStamp = 83200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8410 bytes.	Presentation time: 1525452166.430898!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2552, timeStamp = 83240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8584 bytes.	Presentation time: 1525452166.431342!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2558, timeStamp = 83280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8328 bytes.	Presentation time: 1525452166.431786!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2564, timeStamp = 83320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7926 bytes.	Presentation time: 1525452166.432230!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2570, timeStamp = 83360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7963 bytes.	Presentation time: 1525452166.432674!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2576, timeStamp = 83400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8214 bytes.	Presentation time: 1525452166.433118!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2582, timeStamp = 83440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6513 bytes.	Presentation time: 1525452166.433562!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2587, timeStamp = 83480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5716 bytes.	Presentation time: 1525452166.434006!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2591, timeStamp = 83520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5413 bytes.	Presentation time: 1525452166.434450!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2595, timeStamp = 83560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9297 bytes.	Presentation time: 1525452166.434894!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2602, timeStamp = 83600
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6994 bytes.	Presentation time: 1525452166.435338!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2607, timeStamp = 83640
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.447782!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2608, timeStamp = 84760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.447782!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2609, timeStamp = 84760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 130606 bytes.	Presentation time: 1525452166.447782!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2700, timeStamp = 84760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 3780 bytes.	Presentation time: 1525452166.448226!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2703, timeStamp = 84800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 12297 bytes.	Presentation time: 1525452166.448670!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2712, timeStamp = 84840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5218 bytes.	Presentation time: 1525452166.449114!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2716, timeStamp = 84880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5755 bytes.	Presentation time: 1525452166.449558!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2720, timeStamp = 84920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6009 bytes.	Presentation time: 1525452166.450002!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2725, timeStamp = 84960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6480 bytes.	Presentation time: 1525452166.450446!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2730, timeStamp = 85000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6931 bytes.	Presentation time: 1525452166.450890!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2735, timeStamp = 85040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7004 bytes.	Presentation time: 1525452166.451334!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2740, timeStamp = 85080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6374 bytes.	Presentation time: 1525452166.451778!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2745, timeStamp = 85120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6816 bytes.	Presentation time: 1525452166.452222!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2750, timeStamp = 85160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6344 bytes.	Presentation time: 1525452166.452666!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2755, timeStamp = 85200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4674 bytes.	Presentation time: 1525452166.453110!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2759, timeStamp = 85240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7288 bytes.	Presentation time: 1525452166.453554!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2765, timeStamp = 85280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 3262 bytes.	Presentation time: 1525452166.453998!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2768, timeStamp = 85320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 13275 bytes.	Presentation time: 1525452166.454442!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2778, timeStamp = 85360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4945 bytes.	Presentation time: 1525452166.454886!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2782, timeStamp = 85400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10196 bytes.	Presentation time: 1525452166.455330!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2790, timeStamp = 85440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6082 bytes.	Presentation time: 1525452166.455774!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2795, timeStamp = 85480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9990 bytes.	Presentation time: 1525452166.456218!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2802, timeStamp = 85520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7133 bytes.	Presentation time: 1525452166.456662!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2807, timeStamp = 85560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7957 bytes.	Presentation time: 1525452166.457106!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2813, timeStamp = 85600
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7792 bytes.	Presentation time: 1525452166.457550!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2819, timeStamp = 85640
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7813 bytes.	Presentation time: 1525452166.457994!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2825, timeStamp = 85680
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7994 bytes.	Presentation time: 1525452166.458438!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2831, timeStamp = 85720
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6912 bytes.	Presentation time: 1525452166.458882!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2836, timeStamp = 85760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10547 bytes.	Presentation time: 1525452166.459326!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2844, timeStamp = 85800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6221 bytes.	Presentation time: 1525452166.459770!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2849, timeStamp = 85840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.469992!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2850, timeStamp = 86760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.469992!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2851, timeStamp = 86760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 128377 bytes.	Presentation time: 1525452166.469992!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2941, timeStamp = 86760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6063 bytes.	Presentation time: 1525452166.470436!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2946, timeStamp = 86800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6124 bytes.	Presentation time: 1525452166.470880!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2951, timeStamp = 86840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5355 bytes.	Presentation time: 1525452166.471324!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2955, timeStamp = 86880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6301 bytes.	Presentation time: 1525452166.471768!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2960, timeStamp = 86920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5727 bytes.	Presentation time: 1525452166.472212!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2964, timeStamp = 86960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 11669 bytes.	Presentation time: 1525452166.472656!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2973, timeStamp = 87000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7486 bytes.	Presentation time: 1525452166.473100!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2979, timeStamp = 87040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8781 bytes.	Presentation time: 1525452166.473544!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2986, timeStamp = 87080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6935 bytes.	Presentation time: 1525452166.473988!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2991, timeStamp = 87120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7709 bytes.	Presentation time: 1525452166.474432!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 2997, timeStamp = 87160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7415 bytes.	Presentation time: 1525452166.474876!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3003, timeStamp = 87200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9816 bytes.	Presentation time: 1525452166.475320!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3010, timeStamp = 87240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9566 bytes.	Presentation time: 1525452166.475764!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3017, timeStamp = 87280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7582 bytes.	Presentation time: 1525452166.476208!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3023, timeStamp = 87320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7883 bytes.	Presentation time: 1525452166.476652!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3029, timeStamp = 87360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7538 bytes.	Presentation time: 1525452166.477096!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3035, timeStamp = 87400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7219 bytes.	Presentation time: 1525452166.477540!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3041, timeStamp = 87440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6428 bytes.	Presentation time: 1525452166.477984!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3046, timeStamp = 87480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7647 bytes.	Presentation time: 1525452166.478428!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3052, timeStamp = 87520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.492205!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3053, timeStamp = 88760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.492205!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3054, timeStamp = 88760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 131248 bytes.	Presentation time: 1525452166.492205!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3146, timeStamp = 88760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4796 bytes.	Presentation time: 1525452166.492649!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3150, timeStamp = 88800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 18461 bytes.	Presentation time: 1525452166.493093!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3163, timeStamp = 88840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8305 bytes.	Presentation time: 1525452166.493537!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3169, timeStamp = 88880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 11509 bytes.	Presentation time: 1525452166.493981!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3177, timeStamp = 88920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7133 bytes.	Presentation time: 1525452166.494425!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3182, timeStamp = 88960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7101 bytes.	Presentation time: 1525452166.494869!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3187, timeStamp = 89000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6933 bytes.	Presentation time: 1525452166.495313!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3192, timeStamp = 89040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6727 bytes.	Presentation time: 1525452166.495757!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3197, timeStamp = 89080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5711 bytes.	Presentation time: 1525452166.496201!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3201, timeStamp = 89120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8344 bytes.	Presentation time: 1525452166.496645!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3207, timeStamp = 89160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6501 bytes.	Presentation time: 1525452166.497089!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3212, timeStamp = 89200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8713 bytes.	Presentation time: 1525452166.497533!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3219, timeStamp = 89240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 3339 bytes.	Presentation time: 1525452166.497977!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3222, timeStamp = 89280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7665 bytes.	Presentation time: 1525452166.498421!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3228, timeStamp = 89320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6769 bytes.	Presentation time: 1525452166.498865!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3233, timeStamp = 89360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6132 bytes.	Presentation time: 1525452166.499309!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3238, timeStamp = 89400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7217 bytes.	Presentation time: 1525452166.499753!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3244, timeStamp = 89440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7885 bytes.	Presentation time: 1525452166.500197!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3250, timeStamp = 89480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7521 bytes.	Presentation time: 1525452166.500641!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3256, timeStamp = 89520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10388 bytes.	Presentation time: 1525452166.501085!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3264, timeStamp = 89560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7378 bytes.	Presentation time: 1525452166.501529!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3270, timeStamp = 89600
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.514417!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3271, timeStamp = 90760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.514417!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3272, timeStamp = 90760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 135541 bytes.	Presentation time: 1525452166.514417!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3367, timeStamp = 90760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9266 bytes.	Presentation time: 1525452166.514861!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3374, timeStamp = 90800
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 10172 bytes.	Presentation time: 1525452166.515305!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3382, timeStamp = 90840
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7222 bytes.	Presentation time: 1525452166.515749!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3388, timeStamp = 90880
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8242 bytes.	Presentation time: 1525452166.516193!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3394, timeStamp = 90920
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6711 bytes.	Presentation time: 1525452166.516637!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3399, timeStamp = 90960
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7724 bytes.	Presentation time: 1525452166.517081!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3405, timeStamp = 91000
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4636 bytes.	Presentation time: 1525452166.517525!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3409, timeStamp = 91040
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 13435 bytes.	Presentation time: 1525452166.517969!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3419, timeStamp = 91080
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6899 bytes.	Presentation time: 1525452166.518413!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3424, timeStamp = 91120
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8405 bytes.	Presentation time: 1525452166.518857!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3430, timeStamp = 91160
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6470 bytes.	Presentation time: 1525452166.519301!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3435, timeStamp = 91200
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 9332 bytes.	Presentation time: 1525452166.519745!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3442, timeStamp = 91240
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7042 bytes.	Presentation time: 1525452166.520189!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3447, timeStamp = 91280
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 8776 bytes.	Presentation time: 1525452166.520633!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3454, timeStamp = 91320
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6736 bytes.	Presentation time: 1525452166.521077!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3459, timeStamp = 91360
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7387 bytes.	Presentation time: 1525452166.521521!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3465, timeStamp = 91400
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7482 bytes.	Presentation time: 1525452166.521965!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3471, timeStamp = 91440
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 6733 bytes.	Presentation time: 1525452166.522409!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3476, timeStamp = 91480
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 5534 bytes.	Presentation time: 1525452166.522853!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3480, timeStamp = 91520
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 7915 bytes.	Presentation time: 1525452166.523297!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3486, timeStamp = 91560
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 38 bytes.	Presentation time: 1525452166.536630!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3487, timeStamp = 92760
+Stream "rtsp://192.168.1.116/720p"; video/H264:	Received 4 bytes.	Presentation time: 1525452166.536630!
+Stream "rtsp://192.168.1.116/720p"; video/H264seqNum = 3488, timeStamp = 92760
